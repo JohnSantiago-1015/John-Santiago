@@ -68,10 +68,6 @@ I have **5 years of experience** in PSSL-driven data preparation, handling data 
   
 - Supports operational reporting and insights for decision-making
 
-### 5. **Indigo Forms Dashboard (Ongoing)**
-- Analyzes data from the **Indigo Database** using **SQL Server Management Studio**  
-- Tracks form submissions, trends, and engagement metrics  
-- Supports operational reporting and insights for decision-making
 
 
 ## 📫 Connect with me
