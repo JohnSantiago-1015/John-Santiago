@@ -1,43 +1,85 @@
 
-# 👋 Hi, I'm John Santiago
+# Analytics Career Overview
+
+Hi, I'm John Santiago —  
 **Aspiring Analytics Consultant | SAS • SQL • Power BI • Data Cleaning & Automation**
 
 I have **5 years of experience** in PSSL-driven data preparation, handling data cleaning, transformation, sampling, and loading across manual and automated workflows. I also work with **SAS, SQL, and Power BI projects** for data validation, automation, and dashboard reporting.
 
 ---
-
 ## 🛠 Tools & Skills
-- **Languages / Platforms:** SAS (PROC SQL, PROC SORT, IMPORT/EXPORT), SQL Server, Teradata SQL  
-- **Visualization:** Power BI, Tableau  
-- **Other:** Excel, Data Cleaning, ETL, Automation, Dashboarding  
 
----
+![SAS](https://img.shields.io/badge/SAS-002664?style=flat&logo=sas)
 
-## 📊 Featured Analytics Projects
+![SSMS](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)
 
-### 1. Women's Connection Attendance Dashboard
-- Attendance trends, NPS vs Satisfaction, duplicate detection
+![Teradata](https://img.shields.io/badge/Teradata-CC0000?style=flat&logo=teradata)
 
-### 2. PSSL Maintenance Dashboard
-- Ticket tracking, assignment flow, Go/No-Go decisions
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi)
 
-### 3. Operational Review Performance Dashboard
-- Avg forms per employee/day, LOB performance overview
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
 
-### 4. Survey Response & Employee Feedback Dashboard
-- Response rate monitoring, review summaries
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel)
 
-### 5. Data Quality & Duplicate Detection Dashboard
-- Highlighting mismatches and duplicate surveys
+## 📊 Featured Analytics Power Bi Projects
 
----
+### 1. **Attendance Dashboard (Women’s Connection Group)**
+
+- Tracks attendance across different activity types  
+
+- Highlights single vs multiple occurrences and duplicate entries  
+
+- Calculates total attendees across all activities  
+
+
+### 2. **Survey Dashboard (Women’s Connection)**
+
+- Monitors survey responses and feedback ratings  
+
+- Compares NPS vs Satisfaction Rate and attendance  
+
+- Detects duplicate survey entries  
+  
+
+### 3. ** Completed Task Dashboard (Summary Level)**
+
+- Tracks all completed tickets/tasks for Nexidia Admin Team, Analytic Admin Team, and Analytics Consultants Team  
+
+- Provides summary-level insights for management review
+
+  - Used by the Lead Analytics Consultant for **WBR/MBR reports** to monitor team performance and insights
+ 
+  - 
+### 4. **Developer vs Non-Developer Dashboard**
+
+- Tracks all tickets from the Analytics Manila Team and Analytics India Team  
+
+- Compares Analytics Developers vs Non-Developers (Non-Analytics / no coding tasks)  
+
+- Uses **direct JIRA connection in Power BI** as the data source  
+
+- Highlights task distribution, completion status, and team performance 
+
+### 5. **Indigo Forms Dashboard (Ongoing Project)**
+
+- Analyzes data from the **Indigo Database** using **SQL Server Management Studio**
+  
+- Tracks form submissions, trends, and engagement metrics
+  
+- Supports operational reporting and insights for decision-making
+
+### 5. **Indigo Forms Dashboard (Ongoing)**
+- Analyzes data from the **Indigo Database** using **SQL Server Management Studio**  
+- Tracks form submissions, trends, and engagement metrics  
+- Supports operational reporting and insights for decision-making
+
 
 ## 📫 Connect with me
-- GitHub: [github.com/johnrsantiago](https://github.com/johnrsantiago)  
 
 - LinkedIn Profile:
-- (https://www.linkedin.com/in/john-raymond-santiago-616105246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- https://www.linkedin.com/in/john-raymond-santiago-616105246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   
 - Email: santiago.johnraymond1015@gmail.com
 
 ---
+
